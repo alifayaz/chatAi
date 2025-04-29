@@ -14,6 +14,10 @@ pnpm dev
 bun dev
 ```
 
+env config
+You need to register on the OpenAi site and get a key.
+OPENAI_API_KEY=sk-xxxxxxxxxxxx
+
 Demo
 [https://chat-ai-six-ebon.vercel.app/](https://chat-ai-six-ebon.vercel.app)
 
